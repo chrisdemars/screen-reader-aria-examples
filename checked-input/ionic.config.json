@@ -1,0 +1,7 @@
+{
+  "name": "checked-input",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
