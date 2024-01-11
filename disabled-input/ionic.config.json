@@ -1,0 +1,7 @@
+{
+  "name": "disabled-input",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
