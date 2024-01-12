@@ -12,19 +12,19 @@ const CheckedInput: React.FC = () => {
     <div>
       {/* Regular Checkbox */}
       <IonItem>
-        <IonLabel>Regular Checkbox</IonLabel>
+        <IonLabel>Pepperoni</IonLabel>
         <IonCheckbox slot="start" />
       </IonItem>
 
       {/* Another Regular Checkbox */}
       <IonItem>
-        <IonLabel>Another Checkbox</IonLabel>
+        <IonLabel>Mushroom</IonLabel>
         <IonCheckbox slot="start" />
       </IonItem>
 
       {/* Checkbox with aria-checked */}
       <IonItem>
-        <IonLabel>Checkbox with ARIA</IonLabel>
+        <IonLabel>Sausage</IonLabel>
         <IonCheckbox
           slot="start"
           aria-checked={isChecked ? "true" : "false"} // Convert boolean to string for aria-checked
